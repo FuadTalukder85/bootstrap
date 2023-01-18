@@ -1,0 +1,53 @@
+
+.card{
+    align-items: center;
+    text-align: center;
+    background-color: #DDDCDD;
+    box-shadow: 0px 0px 13px #488588;
+}
+.profile-img{
+    width: 35%;
+    height: 35%;
+    border-radius: 50%;
+    margin-top: -90px;
+    border: 5px solid #FFF;
+}
+.card-title{
+    color: #6633F6;
+}
+.card-body{
+    /* background-color: #DDDCDD; */
+    /* text-align: center; */
+}
+.card-link{
+    font-size: 24px;
+    color: #6633F6;
+}
+
+/* Grid */
+.grid-pink{
+    height: 100px;
+    background-color: pink;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
