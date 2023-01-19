@@ -1,3 +1,37 @@
+.nav-item{
+    color: #180842;
+    font-weight: bolder;
+    padding: 0 10px;
+}
+a{
+    text-decoration: none;
+}
+.sign{
+    color: #180842;
+    font-weight: bolder;
+    margin-right: 26px;
+}
+
+/* Form */
+.bootstrap-form{
+    border: 3px solid #180842;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.form-label{
+    color: #180842;
+    font-weight: 600;
+}
+.btn-send{
+    display: block;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 0;
+    background-color: #6633F6;
+    color: #fff;
+    font-weight: bolder;
+}
 
 .card{
     align-items: center;
@@ -30,10 +64,23 @@
     background-color: pink;
 }
 
+/* Footer */
+.bg-color{
+    background-color: #180842;
+    color: #FFF;
+    padding: 55px 0px;
+}
+
+
+@media only screen and (max-width: 667px){
+    .container-fluid{
+        flex-direction: row-reverse;
+    }
 
 
 
-
+    
+}
 
 
 
